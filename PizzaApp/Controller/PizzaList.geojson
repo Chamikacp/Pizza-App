@@ -1,0 +1,39 @@
+[
+    
+    {
+            "name": "Chicken Sizzler",
+            "ingredients": "Green Chillies, Jalapeños, Red Onions, Chicken",
+            "imageName": "PizzaResources/chicken_sizzler.jpg",
+            "thumbnailName": "PizzaResources/thumbnail_chicken_sizzler.jpg",
+            "type": "meat"
+        },
+    {
+            "name": "Beef Sizzler",
+            "ingredients": "Green Chillies, Jalapeños, Red Onions, Seasoned Minced Beef",
+            "imageName": "PizzaResources/beef_sizzler.jpg",
+            "thumbnailName": "PizzaResources/thumbnail_beef_sizzler.jpg",
+            "type": "meat"
+        },
+    {
+        "name": "Meat Feast",
+        "ingredients": "Green Chillies, Jalapeños, Red Onions, Chicken, Seasoned Minced Beef",
+        "imageName": "PizzaResources/meat_feast.jpg",
+        "thumbnailName": "PizzaResources/thumbnail_meat_feast.jpg",
+        "type": "meat"
+    },
+    
+    {
+            "name": "Vegetable Supreme",
+            "ingredients": "Mushrooms, Mixed Peppers, Red Onions, Tomato",
+            "imageName": "PizzaResources/veg_supreme.jpg",
+            "thumbnailName": "PizzaResources/thumbnail_veg_supreme.jpg",
+            "type": "vegetarian"
+        },
+        {
+            "name": "Veggie Sizzler",
+            "ingredients": "Green Chillies, Jalapeños, Mixed Peppers, Red Onions",
+            "imageName": "PizzaResources/veg_sizzler.jpg",
+            "thumbnailName": "PizzaResources/thumbnail_veg_sizzler.jpg",
+            "type": "vegetarian"
+        }
+]
